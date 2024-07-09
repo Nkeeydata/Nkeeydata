@@ -5,9 +5,9 @@
 **Here are some ideas to get you started:**
 
 - 🔭 I’m a self Driven Data Analyst with a strong background in Sales and IT.
-- 🤔 I’m interested in data science, particularly analytics and its application to solving business problems.
+- 🤔 I’m interested in data analytics, and its application to solving business problems.
 - 👯 I’m looking to collaborate on everything data analysis projects, Let's talk data.
-- 💬 I have a great grasp of the almighty SQL of different flavours (including MySQl, Postgresql, BigQuery).
+- 💬 I have a great grasp of Microsoft Excel, Google sheet, Power BI, Python, and the almighty SQL of different flavours (including MySQl, Postgresql,).
 - 🌱 I build visualizations that are not only stunning but most importantly drive data driven decisions for organizations.
 - 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/nkechika-collins-akpe)
